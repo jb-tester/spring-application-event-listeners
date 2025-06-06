@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.example</groupId>
-    <artifactId>spring-listeners</artifactId>
+    <artifactId>spring-application-event-listeners</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-listeners</name>
-    <description>spring-listeners</description>
+    <name>spring-application-event-listeners</name>
+    <description>spring-application-event-listeners</description>
     <url/>
     <licenses>
         <license/>
